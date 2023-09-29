@@ -1,5 +1,4 @@
 <h1>#CHALLENGE </h1>
-<p>Use the BMI example from Challenge #1, and the code you already wrote, and improve it:</p>
 
 
 <h3>Your tasks:</h3>
